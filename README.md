@@ -26,7 +26,7 @@ Safavid Painting, Persian Miniature, Composition, Visual Language, Islamic Mysti
 - **نویسنده:** [هاله قورچیان]
 - **تاریخ انتشار:** [15-06-2026]
 - **ناشر:** بنیاد نبشت
-- **License:** CC BY-ND 4.0 (No derivatives allowed. Attribution required.)
+- [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
   
 ---
 
