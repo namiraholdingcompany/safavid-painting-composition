@@ -1,6 +1,6 @@
 # The Role of Composition as a Visual Language in Safavid Painting
 
-**DOI:** [(https://doi.org/10.5281/zenodo.21535447)]
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21535447.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21535447)
 
 ---
 
@@ -25,8 +25,8 @@ Safavid Painting, Composition, Visual Language, Persian Miniature, Islamic Art, 
 ## Article Details
 
 - **Title:** The Role of Composition as a Visual Language in Safavid Painting
-- **Author:** [Haleh Ghoorchian]
-- **Published:** [2026/06/15]
+- **Author:** Haleh Ghoorchian
+- **Published:** 2026/06/15
 - **Publisher:** Nebešt Foundation
 - **License:** CC BY-NC 4.0
 
